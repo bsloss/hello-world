@@ -1,1 +1,2 @@
 # hello-world
+Hello! My name is Darth. I'm just your average middle-aged guy trying to make a dent in the universe ;) I'm an Eng Manager at one those big tech companies (The Galactic Empire). For the last year or so I've beeen on a top secret hardware project, code-named, The Death Star. My boss is riding my a#$ to get the project out the door before our competitors, The Rebel Alliance, thwarts our plans. 
